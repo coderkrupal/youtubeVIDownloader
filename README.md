@@ -9,7 +9,8 @@ A **minimalistic**, **techy** GUI application built with **Python** and **Tkinte
 
 ## 📸 Screenshot
 
-![App Screenshot](<img width="452" alt="image" src="https://github.com/user-attachments/assets/adbbdc84-919b-4ce9-ae65-735276d03f5e" />
+![App Screenshot](<img width="452" alt="thumbnail" src="https://github.com/user-attachments/assets/f2228f76-55cc-4e00-aca7-7ba64bc9a8bc" />
+
 )
 
 > *(Place a screenshot image named `screenshot.png` in the root project folder)*
